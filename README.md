@@ -1,4 +1,4 @@
-# news_app
+# VITAP-App-Flutter rewrite
 
 A new Flutter application.
 
