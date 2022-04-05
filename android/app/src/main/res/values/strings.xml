@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+   <string name="app_name">News Hour</string>  <!--fb app name-->
+   <string name="facebook_app_id">5445148465*****</string>  <!--fb app id-->
+   <string name="fb_login_protocol_scheme">fb544514846***</string>  <!--fb+app_id-->
+</resources>

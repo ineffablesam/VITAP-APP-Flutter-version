@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8972732746",
+    "project_id": "vitapp20-ebabf",
+    "storage_bucket": "vitapp20-ebabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8972732746:android:69044ca5e4f72f9ad699b3",
+        "android_client_info": {
+          "package_name": "csi.vitap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8972732746-hmmo1ni242en5rd7765v2a9r92ln9hd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "csi.vitap",
+            "certificate_hash": "f7cacf7832829c1b0124f006c04f25ffe290e9ae"
+          }
+        },
+        {
+          "client_id": "8972732746-6fcavc4vke6n5ikhaqe6k6tj6jafajt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWjKR3cE3XBtq-CO1A0J-Wj48ufNkD78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8972732746-6fcavc4vke6n5ikhaqe6k6tj6jafajt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
