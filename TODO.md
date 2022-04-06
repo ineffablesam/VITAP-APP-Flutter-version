@@ -15,5 +15,10 @@
   - Solution: No idea how it's implemented. Therefore no suggestions.
 
 - [ ] Can't sign in
+
   - relative path: No idea!
   - Solution: No idea!
+
+- [ ] Add calc insted of Video Articles
+  - relative path: lib\pages\videos.dart
+  - - [ ] remove the bloc of the videos relative path: lib\blocs\videos_bloc.dart
