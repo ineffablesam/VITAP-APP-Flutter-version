@@ -22,3 +22,4 @@
 - [ ] Add calc insted of Video Articles
   - relative path: lib\pages\videos.dart
   - - [ ] remove the bloc of the videos relative path: lib\blocs\videos_bloc.dart
+  - write lang features for caluclator
